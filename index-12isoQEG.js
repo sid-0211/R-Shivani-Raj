@@ -19372,7 +19372,7 @@ Error generating stack: ` +
       const [e, t] = S.useState(!1),
         [n, r] = S.useState(!1);
       S.useEffect(() => {
-        ((document.title = "Shivani & Raj — Wedding Invitation"),
+        ((document.title = "Shivani & Raj — Reception Invitation"),
           (
             document.querySelector('meta[name="description"]') ||
             (() => {
